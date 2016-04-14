@@ -1,2 +1,2 @@
 # Personal portfolio initiative
-Repo to develop new personal site
+This repo contains the files used to serve my personal website. Check it out over at <a href="bfullam.github.io">bfullam.github.io</a>
